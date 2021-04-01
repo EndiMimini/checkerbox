@@ -1,0 +1,10 @@
+.color0{
+    background-color: red;
+}
+.color1{
+    background-color: black;
+}
+table tr td{
+    height: 60px;
+    width: 60px;
+}
